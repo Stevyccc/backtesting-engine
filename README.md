@@ -43,9 +43,6 @@ As part of this project, an industrial research study was conducted using the ba
    - Enhanced risk metrics
    - Portfolio optimization and risk management combinging Scipy and cvxpy
 
-## Getting Started
-[To be added: Installation instructions and basic usage examples]
-
 ## Contributing
 This project is currently under active development. Contributions, suggestions, and feedback are welcome.
 

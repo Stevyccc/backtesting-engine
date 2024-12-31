@@ -1,7 +1,7 @@
 # Alpha Factor Selection and Backtesting Framework
 
 ## Overview
-This is a project that I initially developed during a quantitative asset management internship where I worked on a backtesting framework for evaluating alpha factors.
+This is a project that I initially developed during a quantitative asset management internship where I worked on a backtesting framework for evaluating alpha factors. This has helped me greatly in understanding the in-house sophisticated industry-level backtesting object oriented framework during my role as a quantitative analyst at SigTech (spin-off of hedge fund Brevan Howard), which is a much more robust framework that covers from data cleaning, asset pricing, trading cost, dynamic hedging, portfolio optimization all the way to sensitivity testing.
 The project implements a custom backtesting framework designed for quantitative trading strategies, specifically focused on alpha factor testing and evaluation. The framework provides a streamlined approach to testing pre-calculated trading signals (vector-based backtesting) and generates comprehensive performance metrics.
 
 ## Current Features
